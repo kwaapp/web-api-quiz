@@ -23,7 +23,7 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://kwaapp.github.io/web-api-quiz/```
+https://kwaapp.github.io/web-api-quiz/
 <a name="usage"></a>
 ## 3. Usage Tips
 
