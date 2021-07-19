@@ -24,6 +24,7 @@ Smaller devices screen:
 
 ```html
 https://kwaapp.github.io/web-api-quiz/
+```
 <a name="usage"></a>
 ## 3. Usage Tips
 
@@ -62,3 +63,4 @@ Steps to navidate the quiz.
 #### If user tries to enter score again with same inititials, alert will show with proper response.
 #### If user takes quiz again and gets a better score, the system will allow it.
 #### If user takes quiz and does worse, the system will not log the lower score.
+
