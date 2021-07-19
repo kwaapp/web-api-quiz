@@ -1,12 +1,5 @@
 ## Web APIs Challenge: Code Quiz
 
-1. [ Description. ](#desc)
-2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contributing)
-5. [ License. ](#license)
-
-
 <a name="desc"></a>
 ## 1. Description
 
@@ -30,8 +23,7 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://esroleo.github.io/web-api-challenge-code-quiz/
-```
+https://kwaapp.github.io/web-api-quiz/```
 <a name="usage"></a>
 ## 3. Usage Tips
 
@@ -70,24 +62,3 @@ Steps to navidate the quiz.
 #### If user tries to enter score again with same inititials, alert will show with proper response.
 #### If user takes quiz again and gets a better score, the system will allow it.
 #### If user takes quiz and does worse, the system will not log the lower score.
-
-![nav-menu](./assets/images/first-score-attempt.JPG?raw=true "first-score-attempt")
-
-![nav-menu](./assets/images/enter-score-again-same-initial.JPG?raw=true "enter-score-again-same-initial")
-
-![nav-menu](./assets/images/new-high-score.JPG?raw=true "new-high-score")
-
-![nav-menu](./assets/images/lower-score-not-enter-system.JPG?raw=true "lower-score-not-enter-system")
-
-### Click on View High Scores to check your quiz score!
-
-![nav-menu](./assets/images/view-high-scores-full-screen.JPG?raw=true "view-high-scores-full-screen")
-
-
-<a name="contributing"></a>
-## 4. Contributing
-Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
-
-<a name="license"></a>
-## 5. License
-None
